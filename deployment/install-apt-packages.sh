@@ -13,7 +13,7 @@ python-virtualenv \
 python-matplotlib \
 postgresql-contrib-9.1 \
 proj \
-linpng12-dev \
+libpng12-dev \
 libfreetype6-dev \
 libpq-dev \
 libgeos-dev \
