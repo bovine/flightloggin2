@@ -1,4 +1,6 @@
-sudo apt-get install \
+#!/bin/bash
+
+sudo apt-get install -y \
 git \
 apache2 \
 mercurial \
